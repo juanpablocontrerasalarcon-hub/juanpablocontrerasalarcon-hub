@@ -1,4 +1,4 @@
-# Hi, I'm Juan Pablo Contreras 👋
+# Hi, I'm Juan Pablo Contreras 
 
 ### Data Scientist | Data Analytics | Business Intelligence
 
@@ -140,10 +140,10 @@ Latin America, the US, Europe and other regions.
 
 ## Let's connect
 
-📧 **[YOUR EMAIL HERE]**
+ **juan.pablo.contreras.alarcon@gmail.com**
 
-💼 Open to remote opportunities
+ Open to remote opportunities
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+ Feel free to explore my repositories and projects.
