@@ -145,6 +145,3 @@ Latin America, the US, Europe and other regions.
 
  Open to remote opportunities
 
----
-
- Feel free to explore my repositories and projects.
