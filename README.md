@@ -64,6 +64,7 @@ I'm currently open to **remote opportunities with international teams**.
 - Git
 - GitLab
 - VS Code
+- Databricks
 - Positron
 
 ---
