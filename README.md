@@ -1,33 +1,24 @@
-# 👋 Hi, I'm Juan Pablo Contreras
+# Hi, I'm Juan Pablo Contreras 👋
 
 ### Data Scientist | Data Analytics | Business Intelligence
 
-I'm a Data Scientist and Analytics professional from Bolivia, focused on
-turning data into business decisions and building practical solutions
-that improve processes.
+I'm a data professional from Bolivia with experience in banking, business
+intelligence and predictive analytics.
 
-My experience combines data science, business intelligence, banking,
-predictive modeling, reporting and process automation.
+My work sits between business problems and technology: understanding the
+problem, working with data, building analytical solutions and turning the
+results into something people can actually use.
 
----
+I have worked with banking data, credit and collections analytics,
+reporting, predictive models and process improvement.
 
-## 🚀 About Me
-
-- 📊 Data Science & Business Analytics
-- 🧠 Predictive Modeling & Machine Learning
-- 🏦 Banking & Financial Analytics
-- 📈 Business Intelligence & Reporting
-- ⚙️ Process Automation
-- 💻 SQL, Python & R
-- 📊 Power BI
-- 🔎 Data-driven decision making
-- 🌎 Based in Bolivia | Open to remote opportunities
+I'm currently open to **remote opportunities with international teams**.
 
 ---
 
-## 🛠️ Tech Stack
+## What I work with
 
-### Data & Programming
+### Data & Analytics
 
 - Python
 - R
@@ -35,6 +26,10 @@ predictive modeling, reporting and process automation.
 - Pandas
 - NumPy
 - Scikit-learn
+- Exploratory Data Analysis
+- Statistical Analysis
+- Predictive Modeling
+- Feature Engineering
 
 ### Business Intelligence
 
@@ -43,141 +38,112 @@ predictive modeling, reporting and process automation.
 - Excel
 - Data Visualization
 - Reporting
+- KPI Design
 
-### Data Engineering & Tools
+### Data & Banking
 
-- ETL
-- Data Pipelines
+- Topaz
+- Banking Analytics
+- Credit Analytics
+- Collections Analytics
+- Risk Analysis
+- Regulatory Reporting
+- Data Quality
+
+### AI & Automation
+
+- Machine Learning
+- Chatbots
+- AI-powered applications
+- Process Automation
+- MLOps
+- MLflow
+
+### Tools
+
 - Git
 - GitLab
 - VS Code
 - Positron
-- MLflow
-
-### Data Science
-
-- Predictive Modeling
-- Classification
-- Model Evaluation
-- Feature Engineering
-- Model Calibration
-- Statistical Analysis
-- Machine Learning
 
 ---
 
-## 🏦 Domain Experience
+## My background
 
-My main professional experience is in financial services and banking,
-where I work with data to support decision-making, risk analysis,
-customer analytics and process improvement.
+My professional experience has been mainly connected to the financial
+sector, where I work with data to support analytical and business
+decisions.
 
-Some areas I've worked with include:
+I've worked on projects involving credit, collections, customer data,
+reporting and predictive models.
 
-- Credit analytics
-- Collections modeling
-- Risk analytics
-- Customer segmentation
-- Predictive models
-- Portfolio analysis
-- Regulatory reporting
-- Business intelligence
-- Process optimization
+One of the things I enjoy most is taking a process that is highly manual
+or difficult to analyze and looking for a way to make it simpler through
+data, automation or software.
 
----
-
-## 📌 Featured Projects
-
-### 🔹 Predictive Collections Model
-
-Predictive modeling project focused on identifying customers with
-higher probability of collection.
-
-**Technologies:** Python • SQL • Machine Learning • MLflow
-
-Key areas:
-
-- Feature engineering
-- Model evaluation
-- Precision / Recall
-- ROC-AUC
-- Gini
-- KS
-- Probability calibration
-- Model monitoring
+I also have an academic background related to **Telecommunications**,
+which gave me a strong foundation in technology, systems and
+problem-solving.
 
 ---
 
-### 🔹 Banking Analytics & Reporting
+## Some things I've worked on
 
-SQL and Power BI solutions for transforming operational and banking
-data into analytical reports and dashboards.
+### Predictive Analytics
 
-**Technologies:** SQL • Power BI • DAX • Excel
+Developing and evaluating predictive models for business and banking
+use cases, including classification, feature engineering, model
+evaluation and probability calibration.
 
----
+### Banking & BI
 
-### 🔹 Credit Process Automation
+Building SQL-based analytical solutions and Power BI reports to
+transform operational data into information that can be used by
+business teams.
 
-Concept and prototype for improving the collection of credit application
-data through a mobile/web application.
+### Process Automation
 
-The objective is to reduce manual data entry and improve the flow of
-information between credit advisors and banking systems.
+Exploring ways to replace manual data collection and repetitive
+processes with web, mobile and data-driven solutions.
 
-**Technologies:** Flutter • Android • APIs • SQL
+### AI & Chatbots
 
----
-
-### 🔹 Data Analytics Projects
-
-A collection of practical projects involving:
-
-- Exploratory Data Analysis
-- Data Cleaning
-- SQL Analytics
-- Business Intelligence
-- Machine Learning
-- Data Visualization
-- Automation
+Experimenting with AI-based assistants and chatbots to make
+information and business processes easier to access.
 
 ---
 
-## 📚 Currently Learning
+## What I'm interested in
 
-- Advanced Machine Learning
-- Data Engineering
-- MLOps
-- MLflow
-- Cloud Data Platforms
-- Modern Data Pipelines
-- AI-powered applications
-
----
-
-## 🎯 What I Like Building
-
-I enjoy projects where technology solves a real business problem.
-
-My main interests are:
-
-**Data → Analytics → Intelligence → Automation → Business Impact**
-
----
-
-## 📫 Contact
-
-📍 Bolivia
-
-💼 Open to opportunities in:
+I'm particularly interested in roles where I can combine data,
+technology and business:
 
 - Data Science
 - Data Analytics
 - Business Intelligence
 - Data Engineering
+- Machine Learning
 - Product Analytics
-- AI / Machine Learning
+- AI & Automation
+
+I'm especially interested in **remote opportunities with international
+companies and distributed teams**.
 
 ---
 
-⭐ Feel free to explore my repositories.
+## 🇧🇴 Based in Bolivia · 🌎 Open to Remote
+
+I'm based in Bolivia and available to work remotely with teams across
+Latin America, the US, Europe and other regions.
+
+---
+
+## Let's connect
+
+📧 **[YOUR EMAIL HERE]**
+
+💼 Open to remote opportunities
+
+---
+
+⭐ Feel free to explore my repositories and projects.
